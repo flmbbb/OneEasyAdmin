@@ -1,0 +1,7 @@
+{
+    "appTitle": "OneNet辅助平台",
+    "appCaption": "OneNet辅助平台",
+    "apiBaseUrl": "https://localhost:44300/",
+    "cmsCode": "help",
+    "dbCode": ""
+}
